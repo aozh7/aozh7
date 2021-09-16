@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aozh7
+- 👋 Hi, I’m Ayse
 - 👀 I’m interested in data analysis, app development
 - 📫 How to reach me aozhan7@gmail.com
 - 🌱 
