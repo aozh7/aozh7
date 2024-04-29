@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayse
-- 👀 I’m interested in data analysis, app development
+- 👀 I’m interested in data science
 - 📫 
 - 🌱 
 - 💞️ 
